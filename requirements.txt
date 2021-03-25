@@ -1,0 +1,5 @@
+flask >= 1.0.0
+werkzeug==0.16.1
+Flask-JWT-Extended
+Flask-SQLalchemy
+Flask-Restful
